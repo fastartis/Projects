@@ -1,2 +1,4 @@
-# Projects
-For fun
+alert("Myah" + " is awesome!");
+
+
+
